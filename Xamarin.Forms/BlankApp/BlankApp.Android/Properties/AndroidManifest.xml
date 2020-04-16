@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.prismtemplate.name">
-	<uses-sdk android:minSdkVersion="ANDROID-MINIMUM-TARGET-SDK" android:targetSdkVersion="27" />
+	<uses-sdk android:minSdkVersion="ANDROID-MINIMUM-TARGET-SDK" android:targetSdkVersion="29" />
 	<uses-permission android:name="android.permission.INTERNET" />
 	<application android:label="BlankApp.Android" android:icon="@mipmap/ic_launcher"></application>
 </manifest>
